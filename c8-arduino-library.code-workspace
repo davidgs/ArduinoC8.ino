@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../protobufs"
+	},
+	{
+		"name": "ProtoZeebe",
+		"path": "../../../Documents/PlatformIO/Projects/ProtoZeebe"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "sh2lib.h": "c"
+    }
+  }
+}

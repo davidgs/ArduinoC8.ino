@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+  
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/davidgs/github.com/ArduinoC8/ArduinoC8.ino",
+      "environment": [],
+      "program": "/Users/davidgs/github.com/ArduinoC8/ArduinoC8.ino/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}
